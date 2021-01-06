@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name XUM1541-mit-ATMega32u2-rescue)(type Legacy)(uri "${KIPRJMOD}/XUM1541 mit ATMega32u2-rescue.lib")(options "")(descr ""))
+  (lib (name XUM1541_mit_ATMega32u2-eagle-import)(type Legacy)(uri ${KIPRJMOD}/XUM1541_mit_ATMega32u2-eagle-import.lib)(options "")(descr ""))
+  (lib (name XoomFloppy-Pro-rescue)(type Legacy)(uri "${KIPRJMOD}/XoomFloppy Pro-rescue.lib")(options "")(descr ""))
+)

@@ -1,0 +1,14 @@
+** Drc report for /nas/Daten/Elektronik/KiCAD/in_work/XoomFloppy Pro/XoomFloppy Pro.kicad_pcb **
+** Created on 2018-08-17 08:57:13 **
+
+** Found 2 DRC errors **
+ErrType(4): Leiterbahn nahe Pad
+    @ (160,512 mm,105,044 mm): Leiterbahn 0,300 mm, Netz [IEEE_DAV] (54) auf Lage B.Cu, Länge: 0,764 mm
+    @ (159,817 mm,106,659 mm): Pad 2 auf B.Cu, Keine Kupferfläche von JP1
+ErrType(4): Leiterbahn nahe Pad
+    @ (160,512 mm,105,808 mm): Leiterbahn 0,300 mm, Netz [IEEE_DAV] (54) auf Lage B.Cu, Länge: 0,856 mm
+    @ (159,817 mm,106,659 mm): Pad 2 auf B.Cu, Keine Kupferfläche von JP1
+
+** Found 0 unconnected pads **
+
+** End of Report **
